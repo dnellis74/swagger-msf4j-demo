@@ -8,6 +8,6 @@ To run:
 1. mvn package
 1. java -jar target\swagger-jaxrs-server-1.0.0.jar
 1. View the swagger spec at http://127.0.0.1:8080/swagger
-1. Test the functionality at http://localhost:8080/auth/check-username-availability/davenellis
+1. Test the functionality at http://127.0.0.1:8080/auth/check-username-availability/davenellis
  
-Note the msf4j libraries at ws02.org artifactory can be SLLLLOOOOWWWW.    Running a local artifactory as mirror sloves this.s
+Note the msf4j libraries at wso2.org artifactory can be SLLLLOOOOWWWW.    Running a local artifactory as mirror solves this.
